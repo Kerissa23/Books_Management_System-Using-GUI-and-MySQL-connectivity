@@ -13,17 +13,16 @@ A Library Management System built using Python's Tkinter for the GUI and MySQL f
 - Database Management: MySQL Connector
 
 ## Table of Contents
-- [Installation]
-- [Database Setup]
-- [Usage]
-- [Directory Structure]
-- [Screenshots]
-- [Troubleshooting]
+- [Installation](#installation)
+- [Database Setup](#database-setup)
+- [Usage](#usage)
+- [Directory Structure](#directory-structure)
+- [Troubleshooting](#troubleshooting)
 
 ## Installation
 1. Clone the Repository
    ```bash
-   git clone
+   git clone https://github.com/Kerissa23/Books_Management_System-Using-GUI-and-MySQL-connectivity.git
    cd library-management-system
 2. Install Requirements
    ```bash
