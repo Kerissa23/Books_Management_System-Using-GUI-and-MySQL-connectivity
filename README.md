@@ -48,12 +48,13 @@ A Library Management System built using Python's Tkinter for the GUI and MySQL f
        - Username: admin
        - Password: admin123
 ## Directory Structure
-  ```bash
-  ├── app.py                  # Main application file
-  ├── admin.py                # Admin functionality
-  ├── sign_up.py              # User sign-up functionality
-  ├── user_borrow.py          # Book borrowing functionality
-  ├── library.sql             # SQL file to set up the database
-  ├── README.md               # Project documentation
-  └── requirements.txt        # Required Python packages
-
+      ```bash
+     ├── app.py                  # Main application file
+     ├── admin.py                # Admin functionality
+     ├── sign_up.py              # User sign-up functionality
+     ├── user_borrow.py          # Book borrowing functionality
+     ├── library.sql             # SQL file to set up the database
+     ├── README.md               # Project documentation
+     └── requirements.txt        # Required Python packages
+## Troubleshooting
+- Database Connection Issues: Ensure XAMPP is running and the database library is created in phpMyAdmin.
